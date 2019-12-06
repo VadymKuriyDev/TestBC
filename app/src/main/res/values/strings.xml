@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Atlant</string>
+
+    <!--login res-->
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_btn_title">Sign In</string>
+
+    <!--main res-->
+    <string name="start_btn_title">Запуск</string>
+    <string name="stop_btn_title">Остановка</string>
+    <string name="drop_btn_title">Зброс</string>
+    <string name="logout_btn_title">Выход</string>
+    <string name="user_name_value">Профиль: %1$s %2$s</string>
+    <string name="user_type_value">Тип: %s</string>
+    <string name="transaction_value_in">In %s BTC</string>
+    <string name="transaction_value_out">Out %s BTC</string>
+
+    <!--transaction res-->
+    <string name="transaction_value">%s BTC</string>
+</resources>
